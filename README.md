@@ -8,8 +8,8 @@ TicTacToe grid logic game using python.
 
 | 7 | 8 | 9 |
 | - | - | - |
-| 7 | 8 | 9 |
-| 7 | 8 | 9 |
+| 4| 5 | 6 |
+| 1 | 2 | 3 |
 
 
 Version: 3.7.3
